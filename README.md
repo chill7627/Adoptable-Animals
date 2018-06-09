@@ -6,3 +6,6 @@ Many animals wind up in shelters for various reasons.  Some get adopted, some do
 As an extra layer, most dogs that come into shelter are mixed breed.  The breed of a dog is a major factor in whether it will be adopted.  A dogs breed and breed mixture can be determined from intake photographs.  This will help to increase accuracy in intake documentation and resultantly positively affect the result of the adoption prediction.
 
 All this will lead to better awareness and hopefully help find homes for the animals that need it the most.
+
+### Data Wrangling
+The first step in being able to look into animal adoptions and dog breed classification is to gather, organize, and clean the data.  This is done in the [Adoptable Animals notebook](https).
