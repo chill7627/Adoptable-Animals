@@ -8,4 +8,4 @@ As an extra layer, most dogs that come into shelter are mixed breed.  The breed 
 All this will lead to better awareness and hopefully help find homes for the animals that need it the most.
 
 ### Data Wrangling
-The first step in being able to look into animal adoptions and dog breed classification is to gather, organize, and clean the data.  This is done in the [Adoptable Animals notebook](https).
+The first step in being able to look into animal adoptions and dog breed classification is to gather, organize, and clean the data.  This is done in the [Adoptable Animals Data Wrangling Notebook](https).
