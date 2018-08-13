@@ -11,4 +11,7 @@ All this will lead to better awareness and hopefully help find homes for the ani
 The first step in being able to look into animal adoptions and dog breed classification is to gather, organize, and clean the data.  This is done in the [Adoptable Animals Data Wrangling Notebook](https://github.com/chill7627/Adoptable-Animals/blob/master/IPYNBs/Adoptable%20Animals%20Data%20Wrangling.ipynb).
 
 ### Exploratory Data Analysis
-The second step is taking a first look and digging in the data that was just wrangled to get an idea of the big picture that the data presents.  Also, to dig in a little into the details to see if any insights or interesting finds pop out in the exploratory analysis.  This is done in the [Adoptable Animals Exloratory Analysis Notebook](https://github.com/chill7627/Adoptable-Animals/blob/master/IPYNBs/Adoptable%20Animals%20Exploratory%20Data%20Analysis.ipynb).
+The second step is taking a first look and digging in the data that was just wrangled to get an idea of the big picture that the data presents.  Also, I will dig a little into the details to see if any insights or interesting finds pop out in the exploratory analysis.  This is done in the [Adoptable Animals Exloratory Analysis Notebook](https://github.com/chill7627/Adoptable-Animals/blob/master/IPYNBs/Adoptable%20Animals%20Exploratory%20Data%20Analysis.ipynb).
+
+### Statistical Testing
+The third step is taking a deeper dive into the data and answering some of the questions that were formed in the Exploratory Data Analysis notebook statistically.  This is done in the [Adoptable Animals Statistical Analysis Notebook]().  
