@@ -15,3 +15,6 @@ The second step is taking a first look and digging in the data that was just wra
 
 ### Statistical Testing
 The third step is taking a deeper dive into the data and answering some of the questions that were formed in the Exploratory Data Analysis notebook statistically.  This is done in the [Adoptable Animals Statistical Analysis Notebook](https://github.com/chill7627/Adoptable-Animals/blob/master/IPYNBs/Adoptable%20Animals%20Statistical%20Analysis.ipynb).  
+
+### Machine Learning
+The fourth step is preparing the data to be input into machine learning algorithms, running machine learning algorithms, and looking at the results.  This is done in the [Adoptable Animals Machine Learning Notebook]()
