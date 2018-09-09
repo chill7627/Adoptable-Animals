@@ -20,4 +20,4 @@ The third step is taking a deeper dive into the data and answering some of the q
 The fourth step is preparing the data to be input into machine learning algorithms, running machine learning algorithms, and looking at the results.  This is done in the [Adoptable Animals Machine Learning Notebook](https://github.com/chill7627/Adoptable-Animals/blob/master/IPYNBs/Adoptable%20Animals%20Machine%20Learning.ipynb).
 
 ### Reports and Presentation
-The milestone report, final report, and summary presentation can be found [here]().
+The milestone report, final report, and summary presentation can be found [here](https://github.com/chill7627/Adoptable-Animals/tree/master/Reports).
